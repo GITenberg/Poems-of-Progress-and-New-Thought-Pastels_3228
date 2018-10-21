@@ -1,5 +1,5 @@
 _repo: Poems-of-Progress-and-New-Thought-Pastels_3228
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 3228-h/images/coverb.jpg
@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PS'
 - !lcsh 'American poetry'
+- GITenberg
 tableOfContents: Preface -- The land between -- Love's mirage -- The need of the world
   -- The Gulf Stream -- Remembered -- Helen of Troy -- Lais when young -- Lais when
   old -- Existence -- Holiday songs -- Astrolabius -- Completion -- Sleep's treachery
